@@ -9,7 +9,7 @@ It is used to perform data analysis for real world business related questions an
 + launching campaign to target the weekdays with the most user registerations
 + encouraging inactive users to log in back to the system
 
-## [Film Rental Store Project](SQL%20for%20Data%20Analysis%20-%20Weekender%20Crash%20Course)
+## [Film Rental Store Project](https://github.com/shaharlevi1/SQL-Data-Analysis/blob/main/sakila-analysis.sql)
 MySQL data analysis project in helping Film Rental Store to 
 + perform data analysis for user behaviours
 + discover marketing stats
