@@ -2,7 +2,7 @@
 # Data analysis projects using SQL
 
 
-## [Instagram Clone Project](Instagram%20analysis%20)
+## [Instagram Clone Project](https://github.com/shaharlevi1/SQL-Data-Analysis/blob/main/Instagram_analysis.sql)
 MySQL project which is a cloned mimic version of Instagram database. 
 It is used to perform data analysis for real world business related questions and scenarios such as
 + find out the rewarding system for the loyal users
