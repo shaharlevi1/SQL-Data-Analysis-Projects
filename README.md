@@ -3,16 +3,18 @@
 
 
 ## [Instagram Clone Project](https://github.com/shaharlevi1/SQL-Data-Analysis/blob/main/Instagram_analysis.sql)
-MySQL project which is a cloned mimic version of Instagram database. 
+MSSQL project which is a cloned mimic version of Instagram database. 
 It is used to perform data analysis for real world business related questions and scenarios such as
 + find out the rewarding system for the loyal users
 + launching campaign to target the weekdays with the most user registerations
 + encouraging inactive users to log in back to the system
 
 ## [Film Rental Store Project](https://github.com/shaharlevi1/SQL-Data-Analysis/blob/main/sakila-analysis.sql)
-MySQL data analysis project in helping Film Rental Store to 
+MSSQL data analysis project in helping Film Rental Store to 
 + perform data analysis for user behaviours
 + discover marketing stats
 + find actionable customer/business insights
 + measure and track marketing efforts
+
+## [Database Creation Project]
 
