@@ -17,10 +17,11 @@ MSSQL data analysis project in helping Film Rental Store to
 + measure and track marketing efforts
 
 ## [Database Creation Project](https://github.com/shaharlevi1/SQL-Data-Analysis-Projects/blob/main/Levi%20Computers%20DB.sql)
-Creation of computer store database
+Creating a database and application for managing a company which provides technological products to customers worldwide.
+When using the system, company employees can manage various details of the orders, and company’s management can manage the stock efficiently.
 
-## [Hospital Management System Project]
-MSSQL project for managing and analyzing the different procedures that has been taken in the hospital including
+## [Hospital Management System Project](https://github.com/shaharlevi1/SQL-Data-Analysis-Projects/blob/main/Hospital%20Project.sql)
+MSSQL project for managing and analyzing the different procedures that have been taken in the hospital including:
 + Appointments.
 + Treatments.
 + Medication and prescribes.
