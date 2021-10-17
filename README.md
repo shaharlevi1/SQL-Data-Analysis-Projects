@@ -16,5 +16,6 @@ MSSQL data analysis project in helping Film Rental Store to
 + find actionable customer/business insights
 + measure and track marketing efforts
 
-## [Database Creation Project]
+## [Database Creation Project](https://github.com/shaharlevi1/SQL-Data-Analysis-Projects/blob/main/Levi%20Computers%20DB.sql)
+Creation of computer store database
 
